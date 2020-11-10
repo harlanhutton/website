@@ -1,6 +1,6 @@
-baseURL: http://something-fresh.org/
+baseURL: http://harlanhutton.com
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Harlan Hutton
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings

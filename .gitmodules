@@ -1,5 +1,5 @@
-[submodule "my-site/my-site/themes/monopriv"]
-	path = my-site/my-site/themes/monopriv
+[submodule "my-site/themes/monopriv"]
+	path = my-site/themes/monopriv
 	url = https://gitlab.com/kskarthik/monopriv.git
 [submodule "my-site/monopriv"]
 	path = my-site/monopriv

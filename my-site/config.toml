@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+kbaseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Harlan Hutton"
 theme = "monopriv"

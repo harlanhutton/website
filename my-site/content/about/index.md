@@ -1,6 +1,6 @@
 ---
 title: About
-font: "times"
+layout: _default/baseof
 ---
 
 # **Skills**

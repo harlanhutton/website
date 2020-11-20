@@ -8,3 +8,8 @@ about = "M.S. in Data Science Student at New York University's Center for Data S
 github = "https://github.com/harlanhutton"
 email = "ahh303@nyu.edu"
 linkedin = "https://www.linkedin.com/in/harlan-hutton-49a189150/"
+
+[params.hero]
+enabled = true
+img = "img/img.png"
+

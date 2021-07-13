@@ -1,6 +1,6 @@
 ---
 title: "Million Song Dataset Recommender System"
-date: 2021-5-15
+date: 2021-05-15
 ---
 
 Created recommender system using PySpark’s ALS method to learn latent factor representations for users and items. Final model produces top 500 songs for each user and is evaluated on mean average precision. Created comparison to a single-machine implementation using lightfm. 

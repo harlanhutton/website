@@ -4,7 +4,8 @@ title = "Harlan Hutton"
 theme = "monopriv"
 
 [params]
-about = "M.S. in Data Science Student at New York University's Center for Data Science. Summer 2021 Data Science Intern at Q2 Software."
+about = "M.S. in Data Science Student at New York University's Center for Data Science."
+about = "Summer 2021 Data Science Intern at Q2 Software."
 github = "https://github.com/harlanhutton"
 email = "ahh303@nyu.edu"
 linkedin = "https://www.linkedin.com/in/harlan-hutton-49a189150/"

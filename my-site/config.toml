@@ -4,10 +4,10 @@ title = "Harlan Hutton"
 theme = "monopriv"
 
 [params]
-about = "M.S. in Data Science Student at New York University's Center for Data Science. Summer 2021 Data Science Intern at Q2 Software." 
+about = "Incoming Software Engineer at Google. Guest Researcher at the Flatiron Institute Center for Computational Astrophysics. M.S. in Data Science Student at NYU." 
 github = "https://github.com/harlanhutton"
 email = "ahh303@nyu.edu"
-linkedin = "https://www.linkedin.com/in/harlan-hutton-49a189150/"
+linkedin = "https://www.linkedin.com/in/harlanhutton/"
 
 [params.hero]
 enabled = true

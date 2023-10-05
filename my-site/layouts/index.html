@@ -5,7 +5,8 @@
         {{partial "search.html" .}}
     {{end}}
 	<div class="card-columns mt-3">
-    {{ range first 5 (where site.RegularPages "Type" "in" site.Params.mainSections).ByTitle }}
+    {{ range first 6 (where site.RegularPages "Type" "in" 
+site.Params.mainSections).ByTitle }}
 				<div class="bg-light card">
 					<div class="card-body">
 					  <h5 class="font-weight-bold card-title">{{.Title}}</h5>
